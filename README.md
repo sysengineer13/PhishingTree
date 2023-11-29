@@ -1,6 +1,7 @@
 
 # PhishingTree
-This web project simulates a dynamic email environment, demonstrating random content generation and basic webhook interactions. Centered around a festive theme, it features a Kasa Smart LED Light Strip scenario.
+This project simulates an email environment, showcasing the generation of random emails and the use of basic webhook interactions. A key feature is the ability to change the color of LED lights with a button click. Set against a festive backdrop, the project incorporates a scenario involving Kasa Smart LED Lights and integrates IFTTT for interactive functionalities.
+
 **Key Features**
 1. Dynamic Email Content: Each page refresh randomly changes the email's sender, subject, and body from a preset list, offering a unique experience every time.
 2. Interactive Elements: A clickable link in the email leads to a merry-christmas.html page, where users encounter a festive greeting and a simulated button to change the LED strip's color, enhancing engagement.
