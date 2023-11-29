@@ -5,7 +5,7 @@ This web project simulates a dynamic email environment, demonstrating random con
 1. Dynamic Email Content: Each page refresh randomly changes the email's sender, subject, and body from a preset list, offering a unique experience every time.
 2. Interactive Elements: A clickable link in the email leads to a merry-christmas.html page, where users encounter a festive greeting and a simulated button to change the LED strip's color, enhancing engagement.
    
-This is how I made the Phishing Tree with the lights that change to red when a button on a website is clicked.
+The Phishing Tree with the lights will change to red when a button on a website is clicked.
 
 [TikTok video of the lights](https://www.tiktok.com/t/ZT8Pdtcgc/)\
 [Tweet explaining the project](https://x.com/_sysengineer/status/1729919494229721144?s=46&t=grcgBMvw5EVBx5CiAuSwZg)\
