@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+#email-container, #message-container {
+    background-color: white;
+    padding: 20px;
+    max-width:1000px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+   
+}
+
+
+#message-container {
+    font-size: 24px;
+
+    background-color: red;
+    color:white;
+
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    #email-container, #message-container {
+        padding: 10px;
+    }
+}
+
+
+#special-message-link {
+    font-size:24px;
+    color:white;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: red;
+    padding:10px;
+}
+
+#email-subject {
+    font-weight:600;
+    font-size:50px;
+    background-color: green;
+    color:white;
+    padding:10px;
+}
+
+#email-sender {
+    font-weight: 600;
+    font-size: 30px;
+}
