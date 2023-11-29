@@ -1,8 +1,12 @@
 # PhishingTree
 This is how I made the Phishing Tree with the lights that change to red when a button on a website is clicked.
 
+[TikTok video of the lights](https://www.tiktok.com/t/ZT8Pdtcgc/)\
+[Tweet explaining the project](https://x.com/_sysengineer/status/1729919494229721144?s=46&t=grcgBMvw5EVBx5CiAuSwZg)\
+[Mastodon post with more detail](https://infosec.exchange/@Sysengineer/111495441015104865)
+
 # Products
-[Kasa Smart LED Light Strip](https://a.co/d/0Jql6Av)
+[Kasa Smart LED Light Strip](https://a.co/d/0Jql6Av)\
 [IFTTT](https://ifttt.com/)
 
 # Kasa Mobile App
@@ -36,5 +40,5 @@ This is how I made the Phishing Tree with the lights that change to red when a b
 
 
 # My links
-[My Social Media](https://beacons.ai/sysengineer)
+[My Social Media](https://beacons.ai/sysengineer)\
 [Contribute to My Project](https://www.buymeacoffee.com/sysengineer)
