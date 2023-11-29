@@ -31,7 +31,7 @@ The Phishing Tree with the lights will change to red when a button on a website 
 2. In the first part, where it says **If This**, Click Add
 3. Search for **Webhooks** and select
 4. Select **Receive a web request with a JSON payload**
-5. Name the event. I named mine Phishing (which turned the lights red) - Whatever you name it will be the event name you refer to in the code.
+5. Name the event. I named mine Phishing (which turned the lights red) - Whatever you name it will be the event name you refer to in the code. 
 6. Go to **Then** and click **Add**
 7. Search for **Kasa** and select the box that says **TP-Link Kasa**
 8. From here you will have a bunch of options, Select **Change Color**
@@ -43,6 +43,8 @@ The Phishing Tree with the lights will change to red when a button on a website 
 14. Search for **Kasa** and select the box that says **TP-Link Kasa**
 15. Select **Activate scene**
 16. Select the Scene you created (this will make sure the lights go back to the default color after red)
+
+    **** To get your key, go to (https://ifttt.com/maker_webhooks) and click on Documentation
 
 
 # My links
